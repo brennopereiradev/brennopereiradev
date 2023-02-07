@@ -49,7 +49,7 @@ Whether you are looking to improve the design of your website, mobile app, or so
 </div>
 
 <br/>
-<div style="display: inline-block">
+<div style="display:flex; justify-content: center; align-items:center;">
   
 ![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brennopereiradev&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennopereiradev&layout=compact)]()
