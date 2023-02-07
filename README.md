@@ -2,9 +2,19 @@
 
 #### I am a passionate Bachelor of Computer Science with over 10 years of experience in creating and developing brands & visual identities, creating and developing
 
-## My Skills
+### Social Medias
+
+[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)]()
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+
+## Some of My Skills
 
 <div style="display:flex; justify-content: flex-start; flex-wrap: wrap; align-items:left; row-gap:10px">
+
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="" />
@@ -33,3 +43,4 @@
 </div>
 
 ![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brennopereiradev&show_icons=true&theme=dracula)
+
