@@ -1,6 +1,12 @@
 ## Hi There, I'm Brenno 👨🏻‍💻
 
-#### I am a passionate Bachelor of Computer Science with over 10 years of experience in creating and developing brands & visual identities, creating and developing
+As a UI / UX designer and developer , I am focused on creating intuitive and visually engaging digital experiences for users With a solid background in design and development , I can bridge the gap between aesthetics and functionality to create integrated, user experience - centric designs .
+
+With a keen eye for detail and a passion for staying up to date with the latest design trends and technologies, I can create cutting - edge designs and apps that not only look great but also provide a smooth and efficient user experience .
+
+In addition to my design and development skills, I am also a strong communicator and collaborator . I understand the importance of working closely with clients and team members to understand their needs and goals, and I can effectively convey my ideas and designs to stakeholders at all levels.
+
+Whether you are looking to improve the design of your website, mobile app, or software, I am confident that I can deliver results that will exceed your expectations.So if you 're looking for a UI/UX designer and developer who can help you create beautiful and effective digital experiences, look no further!
 
 ### Social Medias
 
